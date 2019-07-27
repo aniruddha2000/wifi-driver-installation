@@ -10,11 +10,11 @@ $ sudo apt install git
 
 ### Clone the repository
 
-`git clone https://github.com/jeremyb31/rtl8192eu-linux-driver`
+`$ git clone https://github.com/jeremyb31/rtl8192eu-linux-driver`
 
 ### Navigate to the directory of the driver
 
-`cd rtl8192eu-linux-driver`
+`$ cd rtl8192eu-linux-driver`
 
 ### Build the driver software and install
 
@@ -25,4 +25,4 @@ $ sudo make install
 
 ### Reboot
 
-`reboot`
+`$ reboot`
